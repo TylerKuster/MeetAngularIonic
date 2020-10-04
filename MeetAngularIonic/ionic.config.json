@@ -1,0 +1,7 @@
+{
+  "name": "MeetAngularIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
